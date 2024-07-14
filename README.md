@@ -1,23 +1,6 @@
-### Heyo
-My name is Eero, I'm trying to learn programming, but the most "programming" I've done is make TF2 HUDs
+### Heyo!
+My name is Eero, I'm trying to learn programming, but the most "programming" I've done is on TF2 HUDs 
 
-I'm also interested in:
-- Music
-- Cooking
-- Video editing
+I'm also interested in music, video editing and cooking
 
-Currently suck at them aswell, but Rome wasnt build in a day, it took like 800 years or something so give me some time K?
-<!--
-**Eerorri/Eerorri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently suck at most of these things, but Rome wasnt build in a day, it took like 800 years or something
