@@ -1,5 +1,12 @@
-## Hi there 👋
+### Heyo
+My name is Eero, I'm trying to learn programming, but the most "programming" I've done is make TF2 HUDs
 
+I'm also interested in:
+- Music
+- Cooking
+- Video editing
+
+Currently suck at them aswell, but Rome wasnt build in a day, it took like 800 years or something so give me some time K?
 <!--
 **Eerorri/Eerorri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
