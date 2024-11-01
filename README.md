@@ -1,5 +1,5 @@
 ### Heyo!
-My name is Eero, I'm trying to learn programming, but the most "programming" I've done is on TF2 HUDs 
+I'm trying to learn programming, but the most "programming" I've done is on TF2 HUDs 
 
 I'm also interested in music, video editing and cooking
 
